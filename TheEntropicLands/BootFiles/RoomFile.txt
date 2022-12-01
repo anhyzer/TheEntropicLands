@@ -1,0 +1,8 @@
+﻿~
+Outside the main entrance to the university
+You find yourself outsief the entrance to the TSYS School of Computer Science.. it's dakr and the air is filled with the sweet smell of death.
+outside
+boulevard
+west 
+east
+~
